@@ -39,7 +39,8 @@
     "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0",
     "react-test-renderer": "^18.2.0",
-    "react-use-geolocation": "^0.1.1"
+    "react-use-geolocation": "^0.1.1",
+    "remark": "^14.0.3"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.17.12",
